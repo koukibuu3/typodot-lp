@@ -1,7 +1,9 @@
+import { LogoAnimation } from './components/LogoAnimation'
+
 function App() {
   return (
-    <main>
-      <h1>typo.</h1>
+    <main className="min-h-screen flex items-center justify-center">
+      <LogoAnimation />
     </main>
   )
 }

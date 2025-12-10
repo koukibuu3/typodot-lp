@@ -61,6 +61,29 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* Logo Animation */
+.logo-animation {
+  font-family: var(--font-mono);
+  font-size: var(--size-logo);
+  font-weight: 450;
+  letter-spacing: -0.02em;
+  color: var(--color-text);
+  display: inline-flex;
+  align-items: baseline;
+}
+
+.logo-text {
+  display: inline;
+}
+
+.logo-cursor {
+  display: inline-block;
+  width: var(--cursor-width);
+  margin-left: 2px;
+  color: var(--color-text);
+  font-weight: 300;
+}
+
 /* Reduced motion */
 @media (prefers-reduced-motion: reduce) {
   *,
