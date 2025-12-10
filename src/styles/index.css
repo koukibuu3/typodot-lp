@@ -13,8 +13,8 @@
   --color-accent-text: #ffffff;
 
   /* Typography */
-  --font-mono: 'Geist Mono', monospace;
-  --font-sans: 'Geist Sans', sans-serif;
+  --font-mono: 'Geist Mono', ui-monospace, monospace;
+  --font-sans: 'Geist Sans', ui-sans-serif, system-ui, sans-serif;
 
   /* Logo sizes (responsive) */
   --size-logo: clamp(48px, 10vw, 96px);
