@@ -28,6 +28,8 @@ export function Footer() {
           >
             Blog
           </a>
+          <a href="/terms.html">利用規約</a>
+          <a href="/privacy.html">プライバシーポリシー</a>
         </nav>
       </div>
     </footer>
