@@ -20,7 +20,7 @@ export function Hero() {
         </motion.p>
 
         <motion.a
-          href="#"
+          href="https://github.com/koukibuu3/typodot/releases/download/v1.0.0/typo.dmg"
           className="cta-button"
           initial={{ opacity: 0, y: 8 }}
           animate={animationComplete ? { opacity: 1, y: 0 } : {}}

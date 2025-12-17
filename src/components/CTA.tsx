@@ -12,7 +12,7 @@ export function CTA() {
       >
         <h2 className="cta-heading">タイピングを、はじめよう。</h2>
 
-        <a href="#" className="cta-button cta-button-large">
+        <a href="https://github.com/koukibuu3/typodot/releases/download/v1.0.0/typo.dmg" className="cta-button cta-button-large">
           Download
         </a>
 
